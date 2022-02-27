@@ -9,6 +9,7 @@
 #include <algorithm>
 
 #include "Superpixels.h"
+#include "Superpixels.cpp"
 
 using namespace std;
 using namespace cv;
@@ -94,7 +95,7 @@ vector<float> Color_importance_map(Mat img,Superpixels sp)
 	vector<float>Color_sal;
 	Mat colorImage(img);
 	Mat src;
-	cvtColor(colorImage, src, CV_BGR2Lab);
+	cvtColor(colorImage, src, cv::COLOR_RGB2Lab);
 
 
 	//imshow("COLOR image", colorImage);

@@ -102,7 +102,7 @@ void Superpixels::calculateSuperpixels() {
 	this->img.convertTo(this->img_f, CV_32F, 1 / 255.);
 
 	// Convert to l-a-b colorspace
-	cvtColor(this->img_f, this->img_lab, CV_BGR2Lab);
+	cvtColor(this->img_f, this->img_lab, cv::COLOR_RGB2Lab);
 
 	int n = nx * ny;
 	int w = img.cols;
