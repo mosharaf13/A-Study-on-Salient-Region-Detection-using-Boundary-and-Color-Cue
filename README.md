@@ -29,10 +29,10 @@ Below diagram denotes relationship between these maps
 
 ![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/24071.jpg "Initial image")
 
-![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/Boundary saliency Map.jpg)
+![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/Boundary%20saliency%20Map.jpg)
 
-![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/COLOR SALIENCY.jpg)
+![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/COLOR%20SALIENCY.jpg)
 
-![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/global saliency Map.jpg)
+![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/global%20saliency%20Map.jpg)
 
-![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/Final saliency Map With Smoothing.jpg)
+![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/Final%20saliency%20Map%20With%20Smoothing.jpg)
