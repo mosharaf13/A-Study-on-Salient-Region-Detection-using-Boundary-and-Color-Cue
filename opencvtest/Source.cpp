@@ -46,6 +46,7 @@ void draw_Map(vector<float>sal , Mat img , Superpixels sp,string s)
 	}
 
 	imshow(s, output);
+	imwrite(s+".jpg", output);
 }
 
 
@@ -542,8 +543,8 @@ int main()
 	}
 
 	normalized(&sal_Map);
-	draw_Map(sal_Map, img, sp, "Final saliency Map With Smoothing ");
-	
+	draw_Map(sal_Map, img, sp, "Final saliency Map With Smoothing");
+
 
 	waitKey(0);
 	return 0;
