@@ -26,8 +26,7 @@ Below diagram denotes relationship between these maps
 
 
 ##Results
-
-![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/24071.jpg "Initial image")
+<img src="/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/24071.jpg"/>
 
 ![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/Boundary saliency Map.jpg)
 
