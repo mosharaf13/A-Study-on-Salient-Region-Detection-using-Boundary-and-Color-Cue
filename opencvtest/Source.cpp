@@ -32,7 +32,7 @@ void draw_Map(vector<float>sal , Mat img , Superpixels sp,string s)
 {
 	Mat labels = sp.getLabels();
 	Mat output(img);
-	cvtColor(output, output, CV_BGR2GRAY);
+	cvtColor(output, output, cv::COLOR_RGB2GRAY);
 
 	for (int y = 0; y < (int)output.rows; ++y) {
 		for (int x = 0; x < (int)output.cols; ++x)
