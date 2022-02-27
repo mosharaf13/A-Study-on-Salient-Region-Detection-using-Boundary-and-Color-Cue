@@ -26,7 +26,8 @@ Below diagram denotes relationship between these maps
 
 
 ##Results
-<img src="/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/24071.jpg"/>
+
+![](https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/24071.jpg "Initial image")
 
 ![](/home/m/Learning/thesis/Visual-Saliency-Detection/opencvtest/Boundary saliency Map.jpg)
 
