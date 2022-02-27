@@ -29,7 +29,6 @@ Below diagram denotes relationship between these maps
 
 <p align="center">
   <img alt= "Initial image" src="https://github.com/mosharaf13/A-Study-on-Salient-Region-Detection-using-Boundary-and-Color-Cue/blob/main/opencvtest/24071.jpg">
-  <em>Initial image</em>
 </p>
 
 
